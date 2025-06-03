@@ -1,4 +1,3 @@
-
 # 🥗 Diet Fitness Tracker: Your Path to a Healthier You\! 💪
 
 A sleek, web-based application to empower users in tracking their nutrition, exercise, and health progress. Crafted collaboratively by a team of four developers for an academic source code management assignment, this project showcases modular design, seamless teamwork, and professional documentation.
@@ -7,17 +6,17 @@ A sleek, web-based application to empower users in tracking their nutrition, exe
 
 ## ✨ About the Project
 
-Diet Fitness Tracker is a minimalist web application designed to help users monitor their dietary intake, physical activities, and health progress. Built as an academic project, it demonstrates effective source code management and collaborative development using a modular HTML-based structure. The application offers an intuitive interface to promote healthy living while showcasing our team's commitment to clean code and teamwork.
+*Diet Fitness Tracker* is a minimalist web application designed to help users monitor their dietary intake, physical activities, and health progress. Built as an academic project, it demonstrates effective source code management and collaborative development using a modular HTML-based structure. The application offers an intuitive interface to promote healthy living while showcasing our team's commitment to clean code and teamwork.
 
 -----
 
 ## 🌟 Features
 
-  * User Profiles: Create and manage personal health profiles.
-  * Food Logging: Track meals and nutritional details effortlessly.
-  * Exercise Tracking: Record workouts with type, duration, and intensity.
-  * Progress Reports: Visualize health goals with clear, insightful summaries.
-  * Responsive UI: Seamless experience across desktop devices.
+  * *User Profiles:* Create and manage personal health profiles.
+  * *Food Logging:* Track meals and nutritional details effortlessly.
+  * *Exercise Tracking:* Record workouts with type, duration, and intensity.
+  * *Progress Reports:* Visualize health goals with clear, insightful summaries.
+  * *Responsive UI:* Seamless experience across desktop devices.
 
 -----
 
@@ -48,19 +47,19 @@ diet-fitness-tracker/
 
 Our team of four developers collaborated closely to build this application, with each member owning a specific module. Below are the team members, their responsibilities, and their profile links:
 
-| Team Member | Assigned Page              | Profile Link                        |
-| :---------- | :------------------------- | :---------------------------------- |
-| Member 1    | index.html and userprofile.html | [Sagar1643](https://github.com/Sagar1643)  |
-| Member 2    | foodlogger.html          | [niharika2024-gi](https://github.com/niharika2024-gi) |
-| Member 3    | exercise.html            | [Nishmitha28](https://github.com/Nishmitha28) |
-| Member 4    | progressreport.html      | [Rakshith-AR](https://github.com/Rakshith-AR) |
+| Team Member | Assigned Page              | 
+| :---------- | :------------------------- | 
+| Member 1    | index.html and userprofile.html 
+| Member 2    | foodlogger.html          
+| Member 3    | exercise.html            
+| Member 4    | progressreport.html      
 
 ### 🛠 Our Workflow
 
-  * Git Version Control: Used individual branches for each page to ensure smooth collaboration.
-  * Code Reviews: Regular pull requests and peer reviews maintained code quality.
-  * Team Syncs: Weekly meetings aligned progress and resolved challenges.
-  * Modular Design: Each page is self-contained for easy maintenance and scalability.
+  * *Git Version Control:* Used individual branches for each page to ensure smooth collaboration.
+  * *Code Reviews:* Regular pull requests and peer reviews maintained code quality.
+  * *Team Syncs:* Weekly meetings aligned progress and resolved challenges.
+  * *Modular Design:* Each page is self-contained for easy maintenance and scalability.
 
 -----
 
@@ -73,15 +72,15 @@ Our team of four developers collaborated closely to build this application, with
 
 ### Installation
 
-1.  Clone the Repository:
+1.  *Clone the Repository:*
     bash
     git clone https://github.com/Sagar1643/diet-fitness-tracker.git
     
-2.  Navigate to the Project Directory:
+2.  *Navigate to the Project Directory:*
     bash
     cd diet-fitness-tracker
     
-3.  Open the Application:
+3.  *Open the Application:*
     Launch index.html in a web browser. No additional dependencies or server setup required.
 
 -----
@@ -134,13 +133,9 @@ Distributed under the UN License. See LICENSE.txt for more information.
 
 Reach out via the project repository or contact team members directly:
 
-  * Member 1: [Sagar1643](https://github.com/Sagar1643)
-  * Member 2: [niharika2024-gi](https://github.com/niharika2024-gi)
-  * Member 3: [Nishmitha28](https://github.com/Nishmitha28)
-  * Member 4: [Rakshith-AR](https://github.com/Rakshith-AR)
-
------
-
+  * Member 1:likhitha 
+  * Member 2: manasa
+*member3 :gangothri
 ## 🙌 Acknowledgments
 
   * [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for inspiring this documentation.
